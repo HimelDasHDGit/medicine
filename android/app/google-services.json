@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561817896662",
+    "project_id": "medicineproject-aa0a2",
+    "storage_bucket": "medicineproject-aa0a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561817896662:android:ec2df588d37f304f91eb77",
+        "android_client_info": {
+          "package_name": "com.example.medicine_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRhemgL2sdsWpVg0zvFqCpTYC3ex-jIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
